@@ -16,7 +16,7 @@ module.exports = {
         });
     
         // Get data from json
-        var data = fs.readFileSync('./assets/data.json', err => {
+        var data = fs.readFileSync('./assets/data2.json', err => {
             if(err) throw err;
         });
         var products = JSON.parse(data);
