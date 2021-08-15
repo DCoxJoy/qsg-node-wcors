@@ -1,0 +1,28 @@
+
+<h4 class="text-center my-5">Product Quick Start Guides</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">SKU</th>
+            <th scope="col">Name</th>
+            <th scope="col">QSG</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each products}}
+            <tr>
+                <td>{{this.sku}}</td>
+                <td>{{this.webproductname}}</td>
+                <td>
+                  
+                      {{#each this.links}}
+                        <a href="{{this}}" title="QSG Link"><i class="fas fa-file-pdf fa-2x mr-2"></i></a>
+                      {{/each}}
+                 
+
+                    
+                </td>
+            </tr>
+        {{/each}}
+    </tbody>
+</table>

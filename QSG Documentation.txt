@@ -1,0 +1,45 @@
+Quick Start Guide - Documentation
+
+Version: 1.0
+
+# Adding a New QSG
+1. Prepare PDF file.
+2. Name QSG file according to naming format.
+
+File Naming Format:
+qsg<unique-qsg-id>-<productLine>-<productType>-<sku>.pdf
+
+File Naming Examples: 
+qsg00011-axtionpro-case-cwa639mp.pdf
+qsg00012-elevate-kiosk-kaa101.pdf
+qsg00013-magconnect-mount-mmu101.pdf
+
+3. Update Google Sheets with newly created SKUs.
+4. Update Google Sheets QSG-ID List linking SKU to ID.
+5. Send QSG PDF to developer.
+6. Developer uploads QSG PDF onto app servers.
+7. Test on live website to confirm changes.
+
+
+-----------------------------------------------------------
+
+
+Quick Start Guide - Documentation
+
+Version: 2.0
+
+# Adding a New QSG
+1. Prepare PDF file.
+2. Name QSG file according to naming format.
+
+File Naming Format:
+qsg<unique-qsg-id>-<productLine>-<productType>-<sku>.pdf
+
+File Naming Examples: 
+qsg00011-axtionpro-case-cwa639mp.pdf
+qsg00012-elevate-kiosk-kaa101.pdf
+qsg00013-magconnect-mount-mmu101.pdf
+
+3. Update Strapi CMS Product List linking SKU to QSG-ID.
+4. Upload QSG PDF onto Strapi CMS servers.
+5. Test on live website to confirm changes.

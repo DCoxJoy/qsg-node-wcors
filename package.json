@@ -1,0 +1,39 @@
+{
+  "name": "node-qsg",
+  "version": "1.0.0",
+  "description": "Quick start guide node.js app for The Joy Factory.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "prod": "pm2 start server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejoyfactory/node-qsg.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "Rocky Nguyen",
+  "license": "No License",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mongoose": "^5.9.10",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/thejoyfactory/node-qsg/issues"
+  },
+  "homepage": "https://github.com/thejoyfactory/node-qsg#readme"
+}
