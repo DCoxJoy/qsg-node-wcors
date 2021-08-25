@@ -3502,5 +3502,69 @@
     "links": [
       "https://store-4ccc5gfp0c.mybigcommerce.com/content/qsg/qsg00201-lockdown-case-sga100.pdf"
     ]
+  },
+  {
+    "linkid": 439,
+    "sku": "MMU330",
+    "webproductname": "MagConnect/Vesa HD Forklift Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00330-hd-forklift-mmu330-mmu230.pdf"
+    ]
+  },
+  {
+    "linkid": 440,
+    "sku": "MMU230",
+    "webproductname": "MagConnect/Vesa HD Forklift Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00330-hd-forklift-mmu330-mmu230.pdf"
+    ]
+  },
+  {
+    "linkid": 441,
+    "sku": "MMU332",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00332-hd-amps-mmu332-mvu332-mmu232-mvu232.pdf"
+    ]
+  },
+  {
+    "linkid": 442,
+    "sku": "MVU332",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00332-hd-amps-mmu332-mvu332-mmu232-mvu232.pdf"
+    ]
+  },
+  {
+    "linkid": 443,
+    "sku": "MMU232",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00332-hd-amps-mmu332-mvu332-mmu232-mvu232.pdf"
+    ]
+  },
+  {
+    "linkid": 444,
+    "sku": "MVU232",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00332-hd-amps-mmu332-mvu332-mmu232-mvu232.pdf"
+    ]
+  },
+  {
+    "linkid": 445,
+    "sku": "MMU331",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00331-hd-universal-adhesive-mmu331-mmu231.pdf"
+    ]
+  },
+  {
+    "linkid": 446,
+    "sku": "MMU231",
+    "webproductname": "MagConnect/Vesa HD AMPs Mount",
+    "links": [
+      "https://storage.googleapis.com/quick_start_guide_bucket_v1/quick-start-document/qsg00331-hd-universal-adhesive-mmu331-mmu231.pdf"
+    ]
   }
 ]
